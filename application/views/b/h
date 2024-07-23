@@ -1,0 +1,9 @@
+ <p>Name:</p>
+        <input type="text" class="name" placeholder="Enter your name" name="name">
+        <p>Phone no:</p>
+        <input type="number" class="phoneno" placeholder="Enter your phone number" name="phone">
+        <p>Email:</p>
+        <input type="email" class="email" placeholder="Enter your email" name="email">
+        <p>Address:</p>
+        <input type="text" class="address" placeholder="Enter your address" name="address">
+        <input type="button" value="submit" class="succes">
